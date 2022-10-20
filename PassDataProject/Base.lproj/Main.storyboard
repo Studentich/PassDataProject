@@ -65,8 +65,8 @@
                         <constraints>
                             <constraint firstItem="fLf-m7-CcM" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="9ji-vr-6ju"/>
                             <constraint firstItem="70L-CP-esf" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="A3P-uL-zaS"/>
-                            <constraint firstItem="RIu-J6-0Xm" firstAttribute="top" secondItem="dV0-Z9-7a4" secondAttribute="bottom" constant="84" id="GJA-ct-4Sh"/>
-                            <constraint firstItem="dV0-Z9-7a4" firstAttribute="top" secondItem="70L-CP-esf" secondAttribute="bottom" constant="227" id="aXk-U7-vx8"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="RIu-J6-0Xm" secondAttribute="bottom" constant="78.666666666666629" id="IX1-TL-jRX"/>
+                            <constraint firstItem="RIu-J6-0Xm" firstAttribute="top" secondItem="dV0-Z9-7a4" secondAttribute="bottom" constant="84" id="TIy-HY-W1n"/>
                             <constraint firstItem="fLf-m7-CcM" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="70" id="egN-A0-mFC"/>
                             <constraint firstItem="RIu-J6-0Xm" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="gRI-2c-C4c"/>
                             <constraint firstItem="dV0-Z9-7a4" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="rC4-wK-g6l"/>
@@ -120,7 +120,7 @@
                         <viewLayoutGuide key="safeArea" id="JYM-GR-HbO"/>
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="BWC-gS-dQI" firstAttribute="top" secondItem="zgT-Eb-W3p" secondAttribute="bottom" constant="386" id="hHG-6t-P9f"/>
+                            <constraint firstItem="JYM-GR-HbO" firstAttribute="bottom" secondItem="BWC-gS-dQI" secondAttribute="bottom" constant="86.333333333333371" id="Nfg-dL-0qv"/>
                             <constraint firstItem="zgT-Eb-W3p" firstAttribute="centerX" secondItem="JYM-GR-HbO" secondAttribute="centerX" id="ohV-rE-jvs"/>
                             <constraint firstItem="BWC-gS-dQI" firstAttribute="centerX" secondItem="JYM-GR-HbO" secondAttribute="centerX" id="uRm-6D-SRL"/>
                             <constraint firstItem="zgT-Eb-W3p" firstAttribute="top" secondItem="JYM-GR-HbO" secondAttribute="top" constant="86" id="zpl-a5-Kb4"/>
